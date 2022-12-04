@@ -6,6 +6,8 @@ console.log("I have 15 grapes")
 var myDog = {
     "name": "Ngáo",
     "legs": 4,
-    "friends": ["everything"]
+    "friends": ["everything!"]
 };
 console.log(myDog)
+
+
