@@ -8,8 +8,6 @@ var myDog = {
     "legs": 4,
     "friends": ["everything!"]
 };
-document.getElementById("demo1").innerHTML = "Before: " + Object.getOwnPropertyNames(myDog);
-Object.defineProperty(myDog, "color", {value: Brown});
-document.getElementById("demo2").innerHTML = "After: " + Object.getOwnPropertyNames(myDog);
+
 
 
