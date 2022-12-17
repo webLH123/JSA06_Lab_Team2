@@ -8,3 +8,10 @@ for(let j = i; i < rows; i++){
     }
     document.writeln("<br/>")
 }
+let myArr = [9,7,9,0,7,8,387,123,456];
+if (myArr % 2 == 0){
+    console.log("Số chẵn là:");
+else{
+    console.log ("bằng 0");
+}
+}
